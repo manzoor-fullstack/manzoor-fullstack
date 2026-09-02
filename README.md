@@ -9,7 +9,7 @@
   <a href="https://portfolio-manzoorjam467-4825s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/manzoor-a-b67245263/">
+  <a href="https://www.linkedin.com/in/manzoor-a-b67245263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -179,7 +179,9 @@ A full-stack enterprise-style real estate management platform involving multiple
 
 ## 📊 GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manzoor-fullstack&show_icons=true&theme=transparent" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzoor-fullstack&layout=compact&theme=transparent" height="180" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manzoor-fullstack" alt="Manzoor's GitHub Stats" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzoor-fullstack&layout=compact" alt="Top Languages" /> </p>
 
 ---
 
@@ -193,7 +195,7 @@ A full-stack enterprise-style real estate management platform involving multiple
 
 ## 📈 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manzoor-fullstack&theme=github-compact&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manzoor-fullstack" alt="GitHub Activity Graph" /> </p>
 
 ---
 
@@ -224,21 +226,6 @@ It's about building systems that are:
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://portfolio-manzoorjam467-4825s-projects.vercel.app/">
-    <!-- <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> -->
-  </a>
-  <a href="https://www.linkedin.com/in/manzoor-a-b67245263/">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
-  </a>
-  <a href="https://github.com/manzoor-fullstack">
-    <!-- <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" /> -->
-  </a>
-</p>
-
----
 
 ## 💬 Let's Build Something Great
 
