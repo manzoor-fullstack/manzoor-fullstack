@@ -3,10 +3,10 @@
 ### Full-Stack Developer | Next.js • React • TypeScript • Node.js • NestJS
 
 <p align="left">
-  <a href="https://github.com/manzoor-fullstack">
+  <a href="https://github.com/manzoor-fullstack" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://portfolio-manzoorjam467-4825s-projects.vercel.app/">
+  <a href="https://portfolio-manzoorjam467-4825s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/manzoor-a-b67245263/">
@@ -129,6 +129,32 @@ I enjoy turning complex requirements into **clean, maintainable, and reliable so
 
 ## 🌟 Featured Work
 
+### 🏢 Reclub — Real Estate Platform
+Production-oriented real-estate platform focused on modern, responsive user experiences.
+
+**Stack:**
+`Next.js` `Tailwind CSS` `TypeScript` `NestJS` `PostgreSQL` `Prisma`
+
+---
+
+### MedGo2U — Physiotherapy Platform
+
+Web platform developed for physiotherapy-related services.
+
+**Stack:**
+`Next.js` `Tailwind CSS` `TypeScript` `.Net`
+
+---
+
+### 🎮 Admin Dashboard
+
+A modern administrative platform focused on managing application data and business operations through a structured dashboard interface.
+
+**Stack:**
+`Next.js` `Tailwind CSS` `TypeScript` `NestJS` `PostgreSQL` `Prisma`
+
+---
+
 ### 🏢 Real Estate ERP
 
 A full-stack enterprise-style real estate management platform involving multiple business modules and workflows.
@@ -147,25 +173,13 @@ A full-stack enterprise-style real estate management platform involving multiple
 * REST API architecture
 
 **Stack:**
-`Next.js` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `REST API`
-
----
-
-### 🎮 Admin Dashboard
-
-A modern administrative platform focused on managing application data and business operations through a structured dashboard interface.
-
-**Stack:**
-`Next.js` `React` `TypeScript` `Tailwind CSS` `REST APIs`
+`Next.js` `TypeScript` `NestJS` `Prisma` `PostgreSQL` `REST API`
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manzoor-fullstack&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzoor-fullstack&layout=compact&hide_border=true&langs_count=8" height="170" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manzoor-fullstack&show_icons=true&theme=transparent" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzoor-fullstack&layout=compact&theme=transparent" height="180" /> </p>
 
 ---
 
@@ -179,9 +193,7 @@ A modern administrative platform focused on managing application data and busine
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manzoor-fullstack&hide_border=true&area=true" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manzoor-fullstack&theme=github-compact&hide_border=true" /> </p>
 
 ---
 
