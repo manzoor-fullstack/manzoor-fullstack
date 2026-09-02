@@ -177,25 +177,11 @@ A full-stack enterprise-style real estate management platform involving multiple
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manzoor-fullstack" alt="Manzoor's GitHub Stats" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzoor-fullstack&layout=compact" alt="Top Languages" /> </p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manzoor-fullstack&hide_border=true" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manzoor-fullstack" alt="GitHub Activity Graph" /> </p>
 
 ---
 
