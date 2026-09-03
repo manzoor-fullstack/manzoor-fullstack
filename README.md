@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Manzoor Ahmed
+# Hi, I'm Manzoor Ahmed
 
-### Full-Stack Developer | Next.js • React • TypeScript • Node.js • NestJS
+### Full-Stack Developer | Next.js • React • TypeScript • Node.js • Express.js • NestJS
 
 <p align="left">
   <a href="https://github.com/manzoor-fullstack" target="_blank">
@@ -26,9 +26,9 @@ I enjoy turning complex requirements into **clean, maintainable, and reliable so
 
 * 💻 Full-Stack Web Developer
 * ⚛️ Strong focus on **React & Next.js**
-* 🟢 Backend development with **Node.js & NestJS**
+* 🟢 Backend development with **Node.js, Express.js & NestJS**
 * 🔐 Experience building **JWT authentication & authorization**
-* 🗄️ Working with **PostgreSQL & Prisma**
+* 🗄️ Working with **MongoDB, Mongoose, PostgreSQL & Prisma**
 * 🔌 Building and integrating **REST APIs**
 * 📚 API documentation with **Swagger / OpenAPI**
 * 🧩 Comfortable with modular and scalable application architecture
@@ -84,7 +84,7 @@ I enjoy turning complex requirements into **clean, maintainable, and reliable so
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
 </p>
 
-**Git · GitHub · VS Code · Vercel · npm · CI/CD**
+**Git · GitHub · VS Code · Vercel · npm**
 
 ---
 
